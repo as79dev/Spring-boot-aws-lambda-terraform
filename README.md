@@ -15,7 +15,7 @@ Install the terraform.
 
 You need to set up the AWS access key and api key in the environment before running the terraform.  
 
-Go to AWS directory and run
+Go to AWS directory and run - Testentry
 
 `
 terraform apply
